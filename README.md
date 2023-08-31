@@ -1,4 +1,4 @@
-# costs-manager
+# Costs Manager
 Final HIT project in Frontend Development
 
 # Final application
